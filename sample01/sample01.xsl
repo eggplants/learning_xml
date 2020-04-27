@@ -1,7 +1,5 @@
-<!-- XML宣言 -->
 <?xml version="1.0" encoding="UTF-8"?>
-
-<!-- DTD: xslt(XSL Transformations)のルート構造定義 -->
+<!-- DTD: xslt(XSL Transformations)のルート構造定義(今回は省略？) -->
 <xsl:stylesheet version="1.0"
 xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <!-- XMLテンプレート: パース書式 -->
