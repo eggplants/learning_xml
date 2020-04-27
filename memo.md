@@ -1,7 +1,8 @@
 # 第一回メモ
 - コンパイルは`xsltproc`
 - lintは`xmllint <file>`
-
+- templ"""a"""te
+  - typoしがち
 - マークアップ言語
   - HTML
   - XML
@@ -24,6 +25,11 @@
   - 整形式XML文書 <-こっちをあつかう
     - XML宣言など不必要？
   - 検証済みXML文書
+- XSLTでコンパイル
+  - プログラミング言語
+  - DSL?
+
+
 - 課題
   - (SAMPLE1, 2をブラウザで表示)
   - 感想文をmanabaで送信
