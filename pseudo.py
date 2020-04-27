@@ -6,16 +6,16 @@ import copy
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 但しxpathはx""とする
 """
-def string_replaceall(            # <xsl:template name="String_replaceAll">
-    this=match(xml,x"''"),        # <xsl:param name="this" select="''" />
-    substring="",                 # <xsl:param name="substring" />
-    replacement=""                # <xsl:param name="replacement" />
+def string_replaceall(      # <xsl:template name="String_replaceAll">
+    this=match(xml,x"''"),  # <xsl:param name="this" select="''" />
+    substring="",           # <xsl:param name="substring" />
+    replacement=""          # <xsl:param name="replacement" />
   )
   if not this == nil: # <xsl:if test="not ($this='')"><xsl:choose>
     if substring in this: # <xsl:when test="contains ($this, $substring)">
       print(substring-before(this, substring)) # <xsl:value-of select="substring-before ($this, $substring)" />
-      print(replacement) # <xsl:copy-of select="$replacement" /> - select属性で指定されたノード以下の全要素 をコピーし、結果ツリーに出力
-      string_replaceall( # <xsl:call-template name="String_replaceAll">
+      print(replacement)                       # <xsl:copy-of select="$replacement" /> - 指定ノード以下の全要素をコピーし結果ツリーに出力
+      string_replaceall(                       # <xsl:call-template name="String_replaceAll">
         this=substring-after(this, substring), # <xsl:with-param name="this" select="substring-after ($this, $substring)" />
         substring=substring,                   # <xsl:with-param name="substring" select="$substring" />
         replacement=replacement                # <xsl:with-param name="replacement" select="$replacement" />
