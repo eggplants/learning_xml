@@ -1,0 +1,31 @@
+bib.xsl:87: parser error : Opening and ending tag mismatch: head line 83 and html
+	            n.document.write("</body></html>");
+	                                            ^
+bib.xsl:89: parser error : Opening and ending tag mismatch: html line 83 and xsl:attribute
+            </xsl:attribute>別ウィンドウで読む</button>
+                            ^
+bib.xsl:89: parser error : Opening and ending tag mismatch: attribute line 80 and button
+            </xsl:attribute>別ウィンドウで読む</button>
+                                                                ^
+bib.xsl:90: parser error : Opening and ending tag mismatch: button line 80 and td
+          </td>
+               ^
+bib.xsl:91: parser error : Opening and ending tag mismatch: td line 75 and tr
+        </tr>
+             ^
+bib.xsl:122: parser error : Opening and ending tag mismatch: tr line 73 and table
+      </table>
+              ^
+bib.xsl:123: parser error : Opening and ending tag mismatch: table line 48 and details
+    </details>
+              ^
+bib.xsl:124: parser error : Opening and ending tag mismatch: details line 43 and xsl:template
+  </xsl:template>
+                 ^
+bib.xsl:147: parser error : Opening and ending tag mismatch: template line 42 and stylesheet
+</xsl:stylesheet>
+                 ^
+bib.xsl:147: parser error : Premature end of data in tag stylesheet line 2
+</xsl:stylesheet>
+                 ^
+cannot parse bib.xsl
