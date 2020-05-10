@@ -77,16 +77,18 @@
               <summary>説明表示</summary>
               <xsl:value-of select="description" />
             </details>
+            <!--
             <button><xsl:attribute name="onclick">
 	            n = window.open("", "Newwindow","width=280,height=480");
 	            n.document.open();
-	            n.document.write("<html lang="ja"><head>");
-	            n.document.write("<title><xsl:value-of select="title" />の内容詳細</title>");
-	            n.document.writeln("<body>");
+	            n.document.write("&lt;html lang="ja">&lt;head>");
+	            n.document.write("&lt;title><xsl:value-of select="title" />の内容詳細&lt;/title>");
+	            n.document.writeln("&lt;body>");
 	            n.document.write("<xsl:value-of select="description" />");
-	            n.document.write("</body></html>");
+	            n.document.write("&lt;/body>&lt;/html>");
 	            n.document.close();
             </xsl:attribute>別ウィンドウで読む</button>
+            -->
           </td>
         </tr>
         <tr>
