@@ -25,6 +25,20 @@
         -->
         </head>
         <body>
+          <script>
+              <![CDATA[
+                function openWindow(title, desc){
+                  n = window.open("", "Newwindow","width=280,height=480");
+	                n.document.open();
+	                n.document.write('<html lang="ja"><head>');
+	                n.document.write(`<title>${title}の内容詳細</title>`);
+	                n.document.writeln("<body>");
+	                n.document.write(`${desc}`);
+	                n.document.write("</body></html>");
+	                n.document.close();
+               }
+              ]]>
+          </script>
           <h1>
             <xsl:value-of select="books/metadata/title" />
           </h1>
@@ -80,22 +94,10 @@
               <summary>説明表示</summary>
               <xsl:value-of select="description" />
             </details>
-            <button onclick="openWindow()">
+            <button>
+              <xsl:attribute name="onclick">openWindow('<xsl:value-of select="title" />',`<xsl:value-of select="description" />`)</xsl:attribute>
              別ウィンドウで読む
             </button>
-            <script>
-              function openWindow(){
-                <![CDATA[
-                  n = window.open("", "Newwindow","width=280,height=480");
-	                n.document.open();
-	                n.document.write('<html lang="ja"><head>');
-	                n.document.write("<title>]]><xsl:value-of select="title" /><![CDATA[の内容詳細</title>");
-	                n.document.writeln("<body>");
-	                n.document.write(`]]><xsl:value-of select="description" /><![CDATA[`);
-	                n.document.write("</body></html>");
-	                n.document.close();
-                }]]>
-            </script>
           </td>
         </tr>
         <tr>
