@@ -19,7 +19,10 @@
           <xsl:value-of select="books/metadata/title" />
         </title>
         <link rel="icon" type="image/x-icon" href="https://www.u.tsukuba.ac.jp/~s1811528/fav.ico" />
-          <!-- <link rel="stylesheet" type="text/css" href=""/> -->
+        <!-- 
+            <script type="text/javascript" charset="utf-8" src="openWindow.js"></script>
+            <link rel="stylesheet" type="text/css" href=""/>
+        -->
         </head>
         <body>
           <h1>
@@ -77,18 +80,22 @@
               <summary>説明表示</summary>
               <xsl:value-of select="description" />
             </details>
-            <!--
-            <button><xsl:attribute name="onclick">
-	            n = window.open("", "Newwindow","width=280,height=480");
-	            n.document.open();
-	            n.document.write("&lt;html lang="ja">&lt;head>");
-	            n.document.write("&lt;title><xsl:value-of select="title" />の内容詳細&lt;/title>");
-	            n.document.writeln("&lt;body>");
-	            n.document.write("<xsl:value-of select="description" />");
-	            n.document.write("&lt;/body>&lt;/html>");
-	            n.document.close();
-            </xsl:attribute>別ウィンドウで読む</button>
-            -->
+            <button onclick="openWindow()">
+             別ウィンドウで読む
+            </button>
+            <script>
+              function openWindow(){
+                <![CDATA[
+                  n = window.open("", "Newwindow","width=280,height=480");
+	                n.document.open();
+	                n.document.write('<html lang="ja"><head>');
+	                n.document.write("<title>]]><xsl:value-of select="title" /><![CDATA[の内容詳細</title>");
+	                n.document.writeln("<body>");
+	                n.document.write(`]]><xsl:value-of select="description" /><![CDATA[`);
+	                n.document.write("</body></html>");
+	                n.document.close();
+                }]]>
+            </script>
           </td>
         </tr>
         <tr>
