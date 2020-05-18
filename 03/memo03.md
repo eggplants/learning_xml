@@ -47,7 +47,7 @@
 - 述部がノードテストだと要素が子孫に存在するかどうか判定
 - `item[title]`とか`/books[item/title]`
 - 要素が特定の値（文字列、数値等）を持つ
-  - `item[publisher='小学館’'`
+  - `item[publisher='小学館']`
 
 ### 属性による条件付け
 
