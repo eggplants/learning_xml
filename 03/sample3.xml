@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<list>
+        <meta>
+            <shop>八百広</shop>
+            <address>茨城県つくば市吾妻</address>
+            <phone>029-85x-xxxx</phone>
+            <businessHours>9:30-21:00</businessHours>
+        </meta>
+        <item id="11" category="果物">
+            <name>みかん</name>
+            <price>300</price>
+            <pref>熊本県</pref>
+        </item>
+        <item id="9" category="野菜">
+            <name>ブロッコリー</name>
+            <price>250</price>
+            <pref>千葉県</pref>
+        </item>
+        <item id="3" category="野菜">
+            <name>白菜</name>
+            <price>300</price>
+            <pref>群馬県</pref>
+        </item>
+        <item id="10" category="野菜">
+            <name>キャベツ</name>
+            <price>150</price>
+            <pref>千葉県</pref>
+        </item>
+        <item id="4" category="野菜">
+            <name>大根</name>
+            <price>100</price>
+            <pref>茨城県</pref>
+        </item>
+        <item id="1" category="果物">
+            <name>みかん</name>
+            <price>400</price>
+            <pref>愛媛県</pref>
+        </item>
+        <item id="5" category="果物">
+            <name>キウイ</name>
+            <price>300</price>
+            <pref>愛媛県</pref>
+        </item>
+        <item id="2" category="果物">
+            <name>りんご</name>
+            <price>400</price>
+            <pref>青森県</pref>
+        </item>
+        <item id="7" category="野菜">
+            <name>ほうれん草</name>
+            <price>200</price>
+            <pref>千葉県</pref>
+        </item>
+        <item id="8" category="果物">
+            <name>なし</name>
+            <price>400</price>
+            <pref>茨城県</pref>
+        </item>
+</list>
