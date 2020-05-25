@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<input>
+    <meta>
+	<date>2019-05-20</date>
+    </meta>
+    <expr>
+	<p1>20</p1>
+	<p2>5</p2>
+    </expr>
+    <expr>
+	<p1>8</p1>
+	<p2>30</p2>
+    </expr>
+    <expr>
+	<p1>20.5</p1>
+	<p2>4</p2>
+    </expr>
+    <expr>
+	<p1>100</p1>
+	<p2>3</p2>
+    </expr>
+    <expr>
+	<p1>23</p1>
+	<p2>6</p2>
+    </expr>
+    <expr>
+	<p1>2.71828</p1>
+	<p2>2</p2>
+    </expr>
+</input>
