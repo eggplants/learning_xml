@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+xmlns:rss="http://purl.org/rss/1.0/"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rss:channel rdf:about="http://www3.asahi.com/">
+    <rss:title>朝日新聞デジタル</rss:title>
+    <rss:link>http://www.asahi.com/</rss:link>
+    <rss:description>朝日新聞デジタル</rss:description>
+    <dc:language>ja</dc:language>
+    <dc:rights>Copyright 2020 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+    <dc:creator>朝日新聞社</dc:creator>
+    <dc:date>2020-06-03T13:18:48+09:00</dc:date>
+    <dc:publisher>朝日新聞社</dc:publisher>
+    <rss:items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN63439LN62UTIL03F.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN633TNFN63UTIL005.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN627S9WN5PPIHB00G.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN633Q9DN63UTNB001.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN627VR6N62UOHB007.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN6330W4N62UTIL003.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN62730VN62UOOB004.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN5X53Y6N5PUHBI00N.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN63334YN5VUTIL043.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN6333C9N62UTIL01K.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN6346JCN63UTQP00G.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN633R7SN63UTQP005.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN625CJXN5XUTQP02S.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN625741N5VPTQP00D.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN627QNSN62PTQP00K.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN626CTMN62ULFA001.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN615F9GN5JULFA006.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN617GQXN61OIPE01X.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN624CBFN4SPLFA00V.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN6246QJN4SPLFA00Y.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN5Q41VWN5MUTFK00C.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN627DXFN62UTFK00K.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN625DFMN61ULFA01W.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN627D8GN62OIPE024.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN6262ZJN62UTFL009.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN63424CN63UHBI005.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN633H5HN63UHBI00H.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN633HRRN62UHBI01X.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN614RNLN5ZUHBI02W.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN633F7WN62UHBI03L.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN625307N61UEHF002.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN626FSTN62PTFC01W.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN626HSFN62UCVL018.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN5L6GF8N51UZVL001.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN614CMJN5NULBJ001.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN507S08N50ULBJ009.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN5W5JFFN5RIIPE009.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN6156RMN61UCVL01J.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN61457HN61UCLV00B.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASN5X35GZN5WUHBI01L.html?ref=rss"/>
+      </rdf:Seq>
+    </rss:items>
+  </rss:channel>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN63439LN62UTIL03F.html?ref=rss">
+    <rss:title>成績優秀者だけ給付「人権問題にも」　留学生が支援訴え</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN63439LN62UTIL03F.html?ref=rss</rss:link>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2020-06-03T12:50:19+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN633TNFN63UTIL005.html?ref=rss">
+    <rss:title>談合容疑の2市議、別の入札情報も要求か　府中市が調査</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN633TNFN63UTIL005.html?ref=rss</rss:link>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2020-06-03T12:27:10+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN627S9WN5PPIHB00G.html?ref=rss">
+    <rss:title>困窮者への貸し付け、スピードか悪用防止か　悩む社協</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN627S9WN5PPIHB00G.html?ref=rss</rss:link>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2020-06-03T12:06:24+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN633Q9DN63UTNB001.html?ref=rss">
+    <rss:title>米販売事業で配当を約束、集金か　5容疑者を逮捕へ</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN633Q9DN63UTNB001.html?ref=rss</rss:link>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2020-06-03T11:44:56+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN627VR6N62UOHB007.html?ref=rss">
+    <rss:title>コンビニはしごタクシー客に「警察で相談を」　詐欺防ぐ</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN627VR6N62UOHB007.html?ref=rss</rss:link>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2020-06-03T11:30:45+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN6330W4N62UTIL003.html?ref=rss">
+    <rss:title>「鬼滅の刃」アニメ制作会社、脱税の疑い　1億4千万円</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN6330W4N62UTIL003.html?ref=rss</rss:link>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2020-06-03T11:30:00+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN62730VN62UOOB004.html?ref=rss">
+    <rss:title>地震多発する上高地、落石・地割れで異様な風景に</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN62730VN62UOOB004.html?ref=rss</rss:link>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2020-06-03T11:03:31+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN5X53Y6N5PUHBI00N.html?ref=rss">
+    <rss:title>退院から5週間　今もオムツのにおいがわからない　  </rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN5X53Y6N5PUHBI00N.html?ref=rss</rss:link>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2020-06-03T11:00:00+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN63334YN5VUTIL043.html?ref=rss">
+    <rss:title>雅子さま、伝統の御給桑に臨む　美智子さまから引き継ぎ</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN63334YN5VUTIL043.html?ref=rss</rss:link>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2020-06-03T10:28:45+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN6333C9N62UTIL01K.html?ref=rss">
+    <rss:title>府中市で官製談合容疑、市幹部と2市議逮捕　価格漏出か</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN6333C9N62UTIL01K.html?ref=rss</rss:link>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2020-06-03T10:19:49+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN6346JCN63UTQP00G.html?ref=rss">
+    <rss:title>巨人が練習試合を中止　選手１人が新型コロナ陽性か</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN6346JCN63UTQP00G.html?ref=rss</rss:link>
+    <dc:subject>スポーツ</dc:subject>
+    <dc:date>2020-06-03T13:05:11+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN633R7SN63UTQP005.html?ref=rss">
+    <rss:title>女子ゴルフ、無観客で25日開幕へ　ネットでライブ配信</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN633R7SN63UTQP005.html?ref=rss</rss:link>
+    <dc:subject>スポーツ</dc:subject>
+    <dc:date>2020-06-03T11:26:22+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN625CJXN5XUTQP02S.html?ref=rss">
+    <rss:title>「壁当て」できるラグビー球　コロナで脚光、定着なるか</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN625CJXN5XUTQP02S.html?ref=rss</rss:link>
+    <dc:subject>スポーツ</dc:subject>
+    <dc:date>2020-06-03T07:00:00+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN625741N5VPTQP00D.html?ref=rss">
+    <rss:title>チームは永久に不滅！　お笑いコンビ・ダンビラムーチョ</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN625741N5VPTQP00D.html?ref=rss</rss:link>
+    <dc:subject>スポーツ</dc:subject>
+    <dc:date>2020-06-03T06:45:00+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN627QNSN62PTQP00K.html?ref=rss">
+    <rss:title>名古屋グランパスの金崎夢生選手が感染　先月末から発熱</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN627QNSN62PTQP00K.html?ref=rss</rss:link>
+    <dc:subject>スポーツ</dc:subject>
+    <dc:date>2020-06-02T23:14:32+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN626CTMN62ULFA001.html?ref=rss">
+    <rss:title>世界の航空業界、続く苦境　愛知の部品メーカーも打撃</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN626CTMN62ULFA001.html?ref=rss</rss:link>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2020-06-03T13:00:00+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN615F9GN5JULFA006.html?ref=rss">
+    <rss:title>「日本の検査は甘い」　海外からなめられた金融行政</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN615F9GN5JULFA006.html?ref=rss</rss:link>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2020-06-03T06:00:00+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN617GQXN61OIPE01X.html?ref=rss">
+    <rss:title>JR名古屋高島屋がオンラインで北海道物産展　３日から</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN617GQXN61OIPE01X.html?ref=rss</rss:link>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2020-06-02T18:00:00+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN624CBFN4SPLFA00V.html?ref=rss">
+    <rss:title>市民の声に耳ふさいだ原発事業　井戸謙一氏　</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN624CBFN4SPLFA00V.html?ref=rss</rss:link>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2020-06-02T15:55:30+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN6246QJN4SPLFA00Y.html?ref=rss">
+    <rss:title>ユーザーの信頼、根底から失われた　八木早希氏</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN6246QJN4SPLFA00Y.html?ref=rss</rss:link>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2020-06-02T15:20:48+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN5Q41VWN5MUTFK00C.html?ref=rss">
+    <rss:title>藻谷浩介さん　コロナと応仁の乱、共通する地方の転換点</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN5Q41VWN5MUTFK00C.html?ref=rss</rss:link>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2020-06-03T09:00:00+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN627DXFN62UTFK00K.html?ref=rss">
+    <rss:title>首相がアドリブで力説した9月入学　逆風しのぐ体力なく</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN627DXFN62UTFK00K.html?ref=rss</rss:link>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2020-06-03T07:00:00+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN625DFMN61ULFA01W.html?ref=rss">
+    <rss:title>「新しい給付金もらって」　休業手当、会社が不払い宣告</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN625DFMN61ULFA01W.html?ref=rss</rss:link>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2020-06-03T06:00:00+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN627D8GN62OIPE024.html?ref=rss">
+    <rss:title>高須医師ら大村知事リコールへ団体設立　不自由展理由に</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN627D8GN62OIPE024.html?ref=rss</rss:link>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2020-06-02T22:26:08+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN6262ZJN62UTFL009.html?ref=rss">
+    <rss:title>子どもの貧困支援団体に上限300万円の交付金　内閣府</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN6262ZJN62UTFL009.html?ref=rss</rss:link>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2020-06-02T21:30:00+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN63424CN63UHBI005.html?ref=rss">
+    <rss:title>「トランプ氏は国を戦場に変えた」　バイデン氏が非難</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN63424CN63UHBI005.html?ref=rss</rss:link>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2020-06-03T12:38:01+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN633H5HN63UHBI00H.html?ref=rss">
+    <rss:title>略奪横行のNY、夜間外出禁止を延長　日中は平和的デモ</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN633H5HN63UHBI00H.html?ref=rss</rss:link>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2020-06-03T11:13:07+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN633HRRN62UHBI01X.html?ref=rss">
+    <rss:title>感染防止へ「デジタル入館証」　シンガポールで導入進む</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN633HRRN62UHBI01X.html?ref=rss</rss:link>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2020-06-03T11:01:32+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN614RNLN5ZUHBI02W.html?ref=rss">
+    <rss:title>答えは「ソーラン節」…全米の高校生、知日派の頂点競う</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN614RNLN5ZUHBI02W.html?ref=rss</rss:link>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2020-06-03T11:00:00+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN633F7WN62UHBI03L.html?ref=rss">
+    <rss:title>「通常兵器にも核で反撃」　プーチン氏、核戦略文書公表</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN633F7WN62UHBI03L.html?ref=rss</rss:link>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2020-06-03T10:41:56+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN625307N61UEHF002.html?ref=rss">
+    <rss:title>テラハが視聴者にかけた魔法　「舞台裏」で目を覚まして</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN625307N61UEHF002.html?ref=rss</rss:link>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2020-06-03T10:15:00+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN626FSTN62PTFC01W.html?ref=rss">
+    <rss:title>お笑いのメッセ・あいはらさん復帰へ　ユーチューブから</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN626FSTN62PTFC01W.html?ref=rss</rss:link>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2020-06-02T21:13:22+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN626HSFN62UCVL018.html?ref=rss">
+    <rss:title>藤井七段、最年少タイトル挑戦にあと1勝　棋聖戦決勝へ</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN626HSFN62UCVL018.html?ref=rss</rss:link>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2020-06-02T19:54:07+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN5L6GF8N51UZVL001.html?ref=rss">
+    <rss:title>やまぬ感染者への中傷、松本清張「砂の器」が問う人の闇</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN5L6GF8N51UZVL001.html?ref=rss</rss:link>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2020-06-02T18:00:00+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN614CMJN5NULBJ001.html?ref=rss">
+    <rss:title>奥深き「でたらめ」の世界　秘密通信研究から転じた職人</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN614CMJN5NULBJ001.html?ref=rss</rss:link>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2020-06-02T16:00:00+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN507S08N50ULBJ009.html?ref=rss">
+    <rss:title>新宿の人出、6割超増加　宣言解除後の週末、前週と比べ</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN507S08N50ULBJ009.html?ref=rss</rss:link>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2020-05-31T23:37:36+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN5W5JFFN5RIIPE009.html?ref=rss">
+    <rss:title>eスポーツと北海道の意外な関係　次は高齢者も取り込め</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN5W5JFFN5RIIPE009.html?ref=rss</rss:link>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2020-05-30T08:00:00+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN6156RMN61UCVL01J.html?ref=rss">
+    <rss:title>漫画家のジョージ秋山さん死去　「浮浪雲」「アシュラ」</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN6156RMN61UCVL01J.html?ref=rss</rss:link>
+    <dc:subject>おくやみ</dc:subject>
+    <dc:date>2020-06-01T16:09:36+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN61457HN61UCLV00B.html?ref=rss">
+    <rss:title>現代美術家のクリスト氏死去　建造物や自然を布で包む</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN61457HN61UCLV00B.html?ref=rss</rss:link>
+    <dc:subject>おくやみ</dc:subject>
+    <dc:date>2020-06-01T12:52:08+09:00</dc:date>
+  </rss:item>
+  <rss:item rdf:about="http://www.asahi.com/articles/ASN5X35GZN5WUHBI01L.html?ref=rss">
+    <rss:title>「生きた日韓現代史」崔書勉さん死去　裏から外交支える</rss:title>
+    <rss:link>http://www.asahi.com/articles/ASN5X35GZN5WUHBI01L.html?ref=rss</rss:link>
+    <dc:subject>おくやみ</dc:subject>
+    <dc:date>2020-05-29T08:00:00+09:00</dc:date>
+  </rss:item>
+</rdf:RDF>
