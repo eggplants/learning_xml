@@ -1,69 +1,72 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <list>
-	<meta>
-	    <shop>八百広</shop>
-	    <address>茨城県つくば市吾妻</address>
-	    <phone>029-85x-xxxx</phone>
-	    <businessHours>9:30-21:00</businessHours>
-	</meta>
-	<item id="11" category="果物">
-		<ruby>みかん</ruby>
-	    <name>みかん</name>
-	    <price>300</price>
-	    <pref>熊本県</pref>
-	</item>
-	<item id="9" category="野菜">
-		<ruby>ぶろっこりー</ruby>
-	    <name>ブロッコリー</name>
-	    <price>250</price>
-	    <pref>千葉県</pref>
-	</item>
-	<item id="3" category="野菜">
-		<ruby>はくさい</ruby>
-	    <name>白菜</name>
-	    <price>300</price>
-	    <pref>群馬県</pref>
-	</item>
-	<item id="10" category="野菜">
-        <ruby>きゃべつ</ruby>
-	    <name>キャベツ</name>
-	    <price>150</price>
-	    <pref>千葉県</pref>
-	</item>
-	<item id="4" category="野菜">
-        <ruby>だいこん</ruby>
-	    <name>大根</name>
-	    <price>100</price>
-	    <pref>茨城県</pref>
-	</item>
-	<item id="1" category="果物">
-        <ruby>みかん</ruby>
-	    <name>みかん</name>
-	    <price>400</price>
-	    <pref>愛媛県</pref>
-	</item>
-	<item id="5" category="果物">
-        <ruby>きうい</ruby>
-	    <name>キウイ</name>
-	    <price>300</price>
-	    <pref>愛媛県</pref>
-	</item>
-	<item id="2" category="果物">
-        <ruby>りんご</ruby>
-	    <name>りんご</name>
-	    <price>400</price>
-	    <pref>青森県</pref>
-	</item>
-	<item id="7" category="野菜">
-        <ruby>ほうれんそう</ruby>
-	    <name>ほうれん草</name>
-	    <price>200</price>
-	    <pref>千葉県</pref>
-	</item>
-	<item id="8" category="果物">
-        <ruby>なし</ruby>
-	    <name>なし</name>
-	    <price>400</price>
-	    <pref>茨城県</pref>
+  <meta>
+    <shop>八百広</shop>
+    <address>茨城県つくば市吾妻</address>
+    <phone>029-85x-xxxx</phone>
+    <businessHours>9:30-21:00</businessHours>
+  </meta>
+  <item id="11" category="果物">
+    <ruby>みかん</ruby>
+    <name>みかん</name>
+    <price>300</price>
+    <pref>熊本県</pref>
+  </item>
+  <item id="9" category="野菜">
+    <ruby>ぶろっこりー</ruby>
+    <name>ブロッコリー</name>
+    <price>250</price>
+    <pref>千葉県</pref>
+  </item>
+  <item id="3" category="野菜">
+    <ruby>はくさい</ruby>
+    <name>白菜</name>
+    <price>300</price>
+    <pref>群馬県</pref>
+  </item>
+  <item id="10" category="野菜">
+    <ruby>きゃべつ</ruby>
+    <name>キャベツ</name>
+    <price>150</price>
+    <pref>千葉県</pref>
+  </item>
+  <item id="4" category="野菜">
+    <ruby>だいこん</ruby>
+    <name>大根</name>
+    <price>100</price>
+    <pref>茨城県</pref>
+  </item>
+  <item id="1" category="果物">
+    <ruby>みかん</ruby>
+    <name>みかん</name>
+    <price>400</price>
+    <pref>愛媛県</pref>
+  </item>
+  <item id="5" category="果物">
+    <ruby>きうい</ruby>
+    <name>キウイ</name>
+    <price>300</price>
+    <pref>愛媛県</pref>
+  </item>
+  <item id="2" category="果物">
+    <ruby>りんご</ruby>
+    <name>りんご</name>
+    <price>400</price>
+    <pref>青森県</pref>
+  </item>
+  <item id="7" category="野菜">
+    <ruby>ほうれんそう</ruby>
+    <name>ほうれん草</name>
+    <price>200</price>
+    <pref>千葉県</pref>
+  </item>
+  <item id="8" category="果物">
+    <ruby>なし</ruby>
+    <name>なし</name>
+    <price>400</price>
+    <pref>茨城県</pref>
+  </item>
+</list>
+>茨城県</pref>
 	</item>
 </list>
